@@ -90,5 +90,11 @@ Now you have a copy of the remote repository on your local machine
 
 Before you can make a commit, it means that you already have existing source code or repositories stored locally on your computer or private network, you can add them to GitHub by typing some commands in a terminal. You can do this by typing Git commands directly, or by using [GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli).
 
+Using the **Command line** to make a commit, follow the steps below: 
+
+1. In the command line, navigate to the root directory of your project
+2. Initialize the local directory as a Git repository with the command `git init -b main` if this is your first commit, if it is not your first commit, skip to the next step
+3. Stage and commit all the files in your project with the command `git add . && git commit -m "[your commit message]"`
+
 ## How to Create a Pull request
 
