@@ -95,6 +95,10 @@ Using the **Command line** to make a commit, follow the steps below:
 1. In the command line, navigate to the root directory of your project
 2. Initialize the local directory as a Git repository with the command `git init -b main` if this is your first commit, if it is not your first commit, skip to the next step
 3. Stage and commit all the files in your project with the command `git add . && git commit -m "[your commit message]"`
+4. Push your code to GitHub with the command `git push`
+
+![commit](https://res.cloudinary.com/utibe/image/upload/v1665101444/Technical%20writing/Screenshot_2022-10-07_at_1.07.06_AM_cxnl15.png)   
+
 
 ## How to Create a Pull request
 
