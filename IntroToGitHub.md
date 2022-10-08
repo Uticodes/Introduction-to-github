@@ -98,3 +98,10 @@ Using the **Command line** to make a commit, follow the steps below:
 
 ## How to Create a Pull request
 
+A pull request (or PR) is a way to alert repository (repo) owners or collaborators that you want to make some changes to their code. It allows them to review the code and make sure it looks good before putting your changes on the primary branch.
+
+Once you create a new branch off the primary branch, make changes, commit and push your changes, then, you can make a pull request.
+
+Here are the steps to make a pull request:
+
+1. 
