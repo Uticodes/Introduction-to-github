@@ -102,3 +102,48 @@ Using the **Command line** to make a commit, follow the steps below:
 
 ## How to Create a Pull request
 
+A pull request (or PR) is a way to alert repository (repo) owners or collaborators that you want to make some changes to their code. It allows them to review the code and make sure it looks good before putting your changes on the primary branch.
+
+![branch terminal](https://res.cloudinary.com/utibe/image/upload/v1665238005/Technical%20writing/Screenshot_2022-10-08_at_2.59.57_PM_leyrif.png)
+Once you create a new branch off the primary branch, make changes, commit and push your changes, then, you can make a pull request.
+
+Here are the steps to make a pull request:
+
+1. Open the GitHub repo of the project
+2. Click on **Compare & Pull Request**
+
+![Compare](https://res.cloudinary.com/utibe/image/upload/v1665239105/Technical%20writing/Screenshot_2022-10-08_at_3.08.25_PM_aux9ud.png)
+
+1. Type a comment to best explain what your changes were all about in the **Leave a comment** section
+
+![Create pull request](https://res.cloudinary.com/utibe/image/upload/v1665239105/Technical%20writing/Screenshot_2022-10-08_at_3.11.31_PM_m1mfx6.png)
+
+1. When you’re done with the comment, Click on **Create pull request**
+
+![Merge preview](https://res.cloudinary.com/utibe/image/upload/v1665239105/Technical%20writing/Screenshot_2022-10-08_at_3.20.06_PM_zwqw2w.png)
+
+Congratulations 🥳🥳👏👏 you have created a pull request, now it is left for your team to review your changes and approve, then, merge the pull request.
+
+## GitHub Desktop vs Github CLI
+
+**[GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)** is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub. You can use GitHub Desktop to complete most Git commands from your desktop with visual confirmation of changes. You can push to, pull from, and clone remote repositories with GitHub Desktop, and use collaborative tools such as attributing commits and creating pull requests.
+
+**[GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli)** is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place. it is an open-source tool for using GitHub from your computer's command line. When you're working from the command line, you can use the GitHub CLI to save time and avoid switching contexts.
+
+GitHub CLI includes GitHub features such as:
+
+- View, create, clone, and fork repositories
+- Create, close, edit, and view issues and pull requests
+- Review, diff, and merge pull requests
+- Run, view, and list workflows
+- Create, list, view, and delete releases
+- Create, edit, list, view, and delete gists
+- List, create, delete, and connect to a codespace
+
+## Conclusion
+
+In this article, we have learned about GitHub, and why you need GitHub. We when ahead to explain the differences between GitHub and Git because when you’re new to GitHub, it’s easy to be confused between the two.  We also explained some features of GitHub like cloning a repo, making a commit, and making a pull request.
+
+Finally, we explained the differences between GitHub Desktop and GitHub CLI. This might be your first time hearing about the two or not, but if it is your first time, you’ll get to use them someday.
+
+We believe that this article will help a lot of people trying to understand some things about GitHub and will help them to explore more of what GitHub can do.
