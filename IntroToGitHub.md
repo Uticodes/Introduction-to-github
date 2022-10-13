@@ -68,7 +68,7 @@ Through
 - [Android Studio](https://developer.android.com/studio)
 - Etc.
 
-But for the purpose of this article, we will be using **Command Line** to clone a repository.
+But for the purpose of this article, I will be using **Command Line** to clone a repository.
 
 To get started cloning a repository: 
 
@@ -142,8 +142,8 @@ GitHub CLI includes GitHub features such as:
 
 ## Conclusion
 
-In this article, we have learned about GitHub, and why you need GitHub. We when ahead to explain the differences between GitHub and Git because when you’re new to GitHub, it’s easy to be confused between the two.  We also explained some features of GitHub like cloning a repo, making a commit, and making a pull request.
+In this article, you have learned about GitHub, and why you need GitHub. I when ahead to explain the differences between GitHub and Git because when you’re new to GitHub, it’s easy to be confused between the two.  I also explained some features of GitHub like cloning a repo, making a commit, and making a pull request.
 
-Finally, we explained the differences between GitHub Desktop and GitHub CLI. This might be your first time hearing about the two or not, but if it is your first time, you’ll get to use them someday.
+Finally, I explained the differences between GitHub Desktop and GitHub CLI. This might be your first time hearing about the two or not, but if it is your first time, you’ll get to use them someday.
 
-We believe that this article will help a lot of people trying to understand some things about GitHub and will help them to explore more of what GitHub can do.
+I believe that this article will help a lot of people trying to understand some things about GitHub and will help them to explore more of what GitHub can do.
