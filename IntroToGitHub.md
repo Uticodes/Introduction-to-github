@@ -112,6 +112,7 @@ A pull request (or PR) is a way to alert repository (repo) owners or collaborato
 Before you create a PR, you may need to create a branch sometimes to make your changes. Click [here]("https://www.git-tower.com/learn/git/faq/create-branch) to see how to create a branch on Git.
 
 ![branch terminal](https://res.cloudinary.com/utibe/image/upload/v1665238005/Technical%20writing/Screenshot_2022-10-08_at_2.59.57_PM_leyrif.png)
+
 Once you create a new branch off the primary branch, make changes, commit and push your changes, then, you can make a pull request.
 The primary branch is the branch named `main` or `master`.
 
